@@ -6,13 +6,41 @@ html {
 }
 
 body {
-    padding-top: 6%;
     padding-left: 17.5%;
     padding-right: 36%;
+    padding-top: 6%;
+    padding-bottom: 6%;
     margin-left: auto;
     margin-right: auto;
     background-color: #fffff8;
     color: #111;
     max-width: 1400px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+/* Code Block Styles */
+code, pre > code {
+    font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 1.0rem;
+    line-height: 1.42;
+    -webkit-text-size-adjust: 100%
+}
+
+.sans > code {
+    font-size: 1.2rem;
+}
+
+h1 > code,
+h2 > code,
+h3 > code {
+    font-size: 0.80em;
+}
+
+.marginnote > code,
+.sidenote > code {
+    font-size: 1rem;
+}
+
+pre.fullwidth > code {
+    width: 90%;
 }
