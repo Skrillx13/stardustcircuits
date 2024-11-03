@@ -1,0 +1,11 @@
+/* Mobile Stylesheet */
+/* This Stylesheet is in charge of responsive behaviour for mobile view. */
+
+@media (max-width: 760px) {
+  body {
+      width: 84%;
+      padding-left: 8%;
+      padding-right: 8%;
+      padding-top: 13%;
+  }
+}

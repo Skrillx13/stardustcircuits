@@ -1,2 +1,3 @@
 # stardustcircuits
-The full name is Stardust &amp; Circuits.
+
+Artificial Intelligence, Talks, and Projects, all at Stardust & Circuits.

@@ -1,0 +1,13 @@
+# -- SiteSettings --
+title: Your awesome title
+email: your-email@example.com
+description: >-
+  Artificial Intelligence, Talks, and Projects, all at Stardust & Circuits.
+baseurl: "/stardustcircuits"
+url: "https://skrillx13.github.io"
+
+# -- Build Configuration --
+plugins:
+  - jekyll-feed
+sass:
+  style: compact

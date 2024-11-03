@@ -1,0 +1,15 @@
+/* Additional Stylesheet */
+/* this Stylesheet is for any additional styles that may be required in the website. */
+
+/* Syntax Highlighting Overrides */
+.reveal pre code, .hljs {
+    background-color: #fffff8 !important; 
+    color: #000000; 
+    padding: 5px;
+    overflow: auto;
+    max-height: 400px;
+    word-wrap: normal;
+}
+.reveal pre, .hljs {
+    box-shadow: none !important;
+}

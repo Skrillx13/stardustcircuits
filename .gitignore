@@ -1,0 +1,9 @@
+# -- JavaScript Packages --
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# -- Assortments --
+**/.DS_Store
